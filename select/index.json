@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "桜の森",
+  "base_artist": "星野 源",
+  "createdAt": "2026-02-22T17:04:59.000963Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "桜の森",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/01_桜の森_星野源.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "桜の森",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/02_桜の森_星野源.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "桜の森",
+      "artist": "Gen Hoshino",
+      "has_synced": true,
+      "path": "select/03_桜の森_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "桜の森",
+      "artist": "Hoshino, Gen",
+      "has_synced": true,
+      "path": "select/04_桜の森_Hoshino,_Gen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "桜の森�",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/05_桜の森�_星野源.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "桜の森",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_桜の森_星野源.txt"
+    }
+  ]
+}
